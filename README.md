@@ -1,2 +1,1 @@
-score
-sorti de terrain
+-h for more info
